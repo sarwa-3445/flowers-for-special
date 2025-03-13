@@ -1255,13 +1255,13 @@ input {
 
 @media screen and (max-width: 658px)  {
 
-
-
-}.color {
+  .color {
     text-align: center;
     position: absolute;
     right: unset;
     left: 50%;
     top: 36%;
     transform: translate(-50%,-50%);
+}
+
 }
